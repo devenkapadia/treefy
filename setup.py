@@ -12,7 +12,7 @@ setup(
     description='A dynamic tree library for algorithmic problem solving',  # Short description
     long_description=open('README.md').read(),  # Read the content of your README file
     long_description_content_type='text/markdown',  # Format of your README
-    url='https://github.com/yourusername/treefy',  # Your GitHub repository URL
+    url='https://github.com/devenkapadia/treefy.git',  # Your GitHub repository URL
     classifiers=[
         'Programming Language :: Python :: 3',  # Python 3 support
         'License :: OSI Approved :: MIT License',  # License type
