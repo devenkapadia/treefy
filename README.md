@@ -17,7 +17,7 @@ Treefy is a simple yet flexible Python library designed to help you easily work 
 
 ## Basic Usage
 
-With this project, there is one test.py, which includes the usage of BinaryTree class, how to add nodes, traversals etc
+With this project, there is one test.py, which includes the usage of BinaryTree class, how to add nodes, traversals etc.
 In addition to that, there are two custom functions provided: Max Path Sum and LCA for your reference
 
 ## Installation
